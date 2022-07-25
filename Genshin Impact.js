@@ -3,6 +3,7 @@
 // icon-color: deep-gray; icon-glyph: moon;
 // This script does not have any backdoors and is not commercial in nature
 // 打开https://bbs.mihoyo.com/ys/自行抓取cookie;或者运行以下快捷指令安装
+// 快捷指令：https://www.icloud.com/shortcuts/177b7db4cdd446369bc3cb83e484f3ef
 // 本脚本所有数据均来自https://bbs.mihoyo.com/ys/本脚本进给予显示最终所有权归@mihoyo
 
 // ========= ↓将cookie配置粘贴这以下↓=========
